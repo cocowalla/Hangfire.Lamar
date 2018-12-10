@@ -4,4 +4,4 @@ set -ev
 dotnet restore ./Hangfire.Lamar.sln
 dotnet build ./src/Hangfire.Lamar/Hangfire.Lamar.csproj --configuration Release
 
-dotnet test --framework netcoreapp2.0
+dotnet test --framework netcoreapp2.0 ./test/Hangfire.Lamar.Test/Hangfire.Lamar.Test.csproj
