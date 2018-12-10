@@ -6,7 +6,7 @@
     <Authors>Colin Anderson</Authors>
     <Copyright>Copyright © Colin Anderson 2018</Copyright>
     <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
-    <TargetFrameworks Condition="'$(OS)' != 'Windows_NT'">netstandard1.3</TargetFrameworks>
+    <TargetFrameworks Condition="'$(OS)' != 'Windows_NT'">netstandard2.0</TargetFrameworks>
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <AssemblyName>Hangfire.Lamar</AssemblyName>
@@ -14,7 +14,7 @@
     <PackageId>Hangfire.Lamar</PackageId>
     <PackageTags>hangfire;background;tasks;jobs;scheduler</PackageTags>
     <PackageProjectUrl>https://github.com/cocowalla/Hangfire.Lamar</PackageProjectUrl>
-    <PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/cocowalla/Hangfire.Lamar</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
