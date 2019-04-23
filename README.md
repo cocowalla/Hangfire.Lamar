@@ -1,7 +1,7 @@
 Hangfire.Lamar
 =====================
 
-[![Windows Build Status](https://img.shields.io/appveyor/ci/cocowalla/hangfire-lamar.svg?label=Windows%20Build)](https://ci.appveyor.com/project/ionx-solutions/Hangfire.Lamar)
+[![Windows Build Status](https://img.shields.io/appveyor/ci/cocowalla/hangfire-lamar.svg?label=Windows%20Build)](https://ci.appveyor.com/project/cocowalla/hangfire-lamar)
 [![Linux Build status](https://img.shields.io/travis/cocowalla/Hangfire.Lamar.svg?label=Linux%20Build)](https://travis-ci.org/cocowalla/Hangfire.Lamar)
 [![NuGet](https://img.shields.io/nuget/v/Hangfire.Lamar.svg)](https://www.nuget.org/packages/Hangfire.Lamar)
 
